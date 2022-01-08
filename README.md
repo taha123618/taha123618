@@ -6,5 +6,4 @@
 4. 💞️ I’m looking to collaborate on ...
 5. 📫 You can contact me by email tahaahmedanees2@gmail.com
 
-<a href="https://app.daily.dev/taha616"><img src="https://api.daily.dev/devcards/e260a33422cc4b139be4afc0e8d857dc.png?r=9uk" width="400" alt="Taha Ahmed khan's Dev Card"/></a>
-
+<a href="https://app.daily.dev/taha616"><img src="https://api.daily.dev/devcards/e260a33422cc4b139be4afc0e8d857dc.png?r=511" width="400" alt="Taha Ahmed khan's Dev Card"/></a>
