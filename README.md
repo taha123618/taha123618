@@ -12,7 +12,4 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=taha123618&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taha123618&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taha123618&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-<a href="https://app.daily.dev/taha616"><img src="https://api.daily.dev/devcards/e260a33422cc4b139be4afc0e8d857dc.png?r=xyi" width="400" alt="Taha Ahmed khan's Dev Card"/></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=taha123618&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<a href="https://app.daily.dev/taha616"><img src="https://api.daily.dev/devcards/e260a33422cc4b139be4afc0e8d857dc.png?r=xyi" width="400" alt="Taha Ahmed khan's Dev Card"/></a>
